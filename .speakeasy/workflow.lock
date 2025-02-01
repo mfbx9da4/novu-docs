@@ -1,4 +1,4 @@
-speakeasyVersion: 1.308.1
+speakeasyVersion: 1.481.1
 sources:
     openapi-with-code-samples:
         sourceNamespace: openapi-with-code-samples
@@ -9,6 +9,7 @@ sources:
 targets: {}
 workflow:
     workflowVersion: 1.0.0
+    speakeasyVersion: latest
     sources:
         openapi-with-code-samples:
             inputs:
